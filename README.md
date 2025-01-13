@@ -55,6 +55,8 @@ Matplotlib, Seaborn and NumPy which is highly effective in completing tasks
 efficiently and accurately. I strongly believe that seamlessly visualizing and 
 interpreting data will help to avoid inconsistencies and enhance meaningful 
 insights.
+ •	Tableau used for data visualization.
   
+<br/> 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/dhanushka-gunasinghe/****
