@@ -36,7 +36,7 @@ Application Development: A user-friendly CVD prediction application was develope
 Conclusion:
 This research successfully demonstrates the potential of machine learning in predicting CVDs based on human behavior. The developed application offers a valuable tool for individuals to assess their risk and take proactive steps to protect their health.
 
-<b>- [Google Play Store - Data Analysis Project](https://github.com/dhanushkapg/Google-Play-Store-Data-Analysis-)</b>
+<b>- [PROJECT 3:Google Play Store - Data Analysis Project](https://github.com/dhanushkapg/Google-Play-Store-Data-Analysis-)</b>
 <br/>
 <p align="justify">
 This project was undertaken as part of the requirements for the Business Intelligence and Data Analytics module during my Master’s degree program in July 2023.
@@ -59,5 +59,30 @@ insights.
  •	Tableau used for data visualization.
   
 <br/> 
+
+<b>- [PROJECT 4:Generative AI for Mental Health](https://github.com/dhanushkapg/LLM-for-mental-Health)</b>
+<br/>
+<p align="justify">
+This project was undertaken as part of the requirements for the Group Module  and as a group we focus on use of Generative AI for Mental health.
+<br/>
+Exploring the viability, safety, and effectiveness of training generative language models to create empathetic, informative, and contextually relevant supportive text tailored for mental health support. A wide range of mental health issues, including stress, anxiety, and clinical depression, affect millions of people
+around the world. It is difficult to address these challenges given the stigma associated with seeking mental
+health services, the limited access to mental health services, and the diversity of human experiences. The ability
+of generative AI to adapt and generate content provides unique avenues for supporting mental health problems.
+
+Some examples of conversational agents and chatbots include Woebot, Wysa and Tess. Woebot uses
+cognitive-behavioural and natural language processing techniques to provide users with emotional support and
+coping strategies and has proven effective in significant reduction in depression (Fitzpatrick et al., 2017). Wysa
+employs AI to offer emotional support through chat conversations, cognitive-behavioural techniques, and
+mindfulness exercises and has been utilised in studies to assess the feasibility and effectiveness of text-based
+conversational agents on users with self-reported symptoms of depression (Inkster et al., 2018). Furthermore,
+Psychological AI chatbot Tess which provides mental health support, psychoeducation, and reminders through brief conversational exchanges has proven to be engaging and satisfactory and reduces depression and anxiety symptoms in college students self-identified with the disorder
+Exploring the viability, safety, and effectiveness of training generative language models to create empathetic, informative, and contextually relevant supportive text tailored for mental health support. A wide range of mental health issues, including stress, anxiety, and clinical depression, affect millions of people around the world. It is difficult to address these challenges given the stigma associated with seeking mental health services, the limited access to mental health services, and the diversity of human experiences. The ability of generative AI to adapt and generate content provides unique avenues for supporting mental health problems. Some examples of conversational agents and chatbots include Woebot, Wysa and Tess. Woebot uses cognitive-behavioural and natural language processing techniques to provide users with emotional support and coping strategies and has proven effective in significant reduction in depression (Fitzpatrick et al., 2017). Wysa employs AI to offer emotional support through chat conversations, cognitive-behavioural techniques, and mindfulness exercises and has been utilised in studies to assess the feasibility and effectiveness of text-based conversational agents on users with self-reported symptoms of depression (Inkster et al., 2018). Furthermore, Psychological AI chatbot Tess which provides mental health support, psychoeducation, and reminders through brief conversational exchanges has proven to be engaging and satisfactory and reduces depression and anxiety symptoms in college students self-identified with the disorder
+Skills: Data Science · Machine Learning · Large Language Models (LLM) · Large Language Model Operations (LLMOps)
+<br>
+ •	LLM /Machine Learning/ Large Language Model Operations (LLMOps) / LLM Evaluvation methodologies
+ <br>
+  •	LLM Training and Deployment / Azure and Google cloud platforms / Java/React JS/ Tailwind UI/ MYSQL / RESTAPI / 
+  
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/dhanushka-gunasinghe/****
