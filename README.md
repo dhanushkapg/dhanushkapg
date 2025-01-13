@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1>Hi, I'm Dhanushka <br/>Data Science and Machine Learning Enthusiastic | Data Analytics | Software Developer | Application Integrator </h1>
 
-<!--
-**dhanushkapg/dhanushkapg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><b>Academic and Professional Projects</b></h2>
 
-Here are some ideas to get you started:
+<b>- [SALES PERFORMANCE AND INSIGHTS PROJECT](https://github.com/dhanushkapg/SalesAnalysis)</b>
+<br/>
+<p align="justify">
+This project is aimed at enhancing my Power BI skills through a self-driven analysis of a sales dataset sourced from Kaggle. The focus is on generating actionable insights that meet specific business requirements, particularly for management.
+The objective is to analyze sales figures across various territories and cities, with a special emphasis on current sales performance. The analysis also extends to evaluating the performance of districts and district managers, offering a comprehensive view of sales dynamics across different geographical areas.
+Through this project, I aim to develop proficiency in data modeling, DAX (Data Analysis Expressions), and creating interactive dashboards in Power BI. The final deliverables will include a series of visual reports that enable management to monitor territory-based sales performance and district management efficiency in real time, driving strategic decision-making.
+<br/>
+<br/>
+•	Power BI were used for data manipulation and visualization.
+<br/>
+  
+<b>- [PROJECT 2: HEART-CARE Deep Learning / Machine Learning Based Cardiovascular Disease Prediction Application](https://github.com/dhanushkapg/HeartCare)</b>
+<br/>
+<p align="justify">
+This is the project I did as the final research for my master's degree in July 2023. 
+<br/>
+This research aims to develop a user-friendly application to predict cardiovascular diseases (CVDs) based on human behavioral features. CVDs, a leading global health concern, are significantly influenced by lifestyle factors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Methodology:
+
+Dataset: A substantial dataset was used, encompassing a wide range of human behavioral features.
+Data Preprocessing: Outlier removal, feature selection, and standardization were implemented to ensure data quality and reliability.
+Machine Learning Models: A diverse set of classifiers were explored, including ensemble models (Random Forest, XGBoost, LightGBM), linear models (Logistic Regression), tree-based models (Decision Tree), distance-based models (K-Nearest Neighbors, SVM), and deep learning models (ANN, TabNet).
+Hyperparameter Tuning: A wide range of hyperparameters were tested to optimize model performance.
+Evaluation Metrics: The models were evaluated using train, test scores, accuracy, precision, recall, and F1-scores.
+Results:
+TabNet emerged as the top-performing model, achieving nearly 80% train and test scores with promising metrics.
+Application Development: A user-friendly CVD prediction application was developed using React JavaScript and Tailwind CSS.
+Conclusion:
+This research successfully demonstrates the potential of machine learning in predicting CVDs based on human behavior. The developed application offers a valuable tool for individuals to assess their risk and take proactive steps to protect their health.
+
+<h2> 🤳 Connect with me:</h2>
+https://www.linkedin.com/in/dhanushka-gunasinghe/****
