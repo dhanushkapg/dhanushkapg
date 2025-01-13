@@ -9,8 +9,11 @@ This project is aimed at enhancing my Power BI skills through a self-driven anal
 The objective is to analyze sales figures across various territories and cities, with a special emphasis on current sales performance. The analysis also extends to evaluating the performance of districts and district managers, offering a comprehensive view of sales dynamics across different geographical areas.
 Through this project, I aim to develop proficiency in data modeling, DAX (Data Analysis Expressions), and creating interactive dashboards in Power BI. The final deliverables will include a series of visual reports that enable management to monitor territory-based sales performance and district management efficiency in real time, driving strategic decision-making.
 <br/>
+  <br/>
+•	Python(Pandas,Numpy,Matplotlib) were used for data EDA, cleaning and preparation
 <br/>
-•	Power BI, python(Matplotlib, Seaborn, Plotly, or ggplot2) were used for data manipulation and visualization.
+<br/>
+•	Power BI, python(Matplotlib, Seaborn, Plotly, or ggplot2) were used for data visualization.
 <br/>
   
 <b>- [PROJECT 2: HEART-CARE Deep Learning / Machine Learning Based Cardiovascular Disease Prediction Application](https://github.com/dhanushkapg/HeartCare)</b>
