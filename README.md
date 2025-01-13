@@ -10,7 +10,7 @@ The objective is to analyze sales figures across various territories and cities,
 Through this project, I aim to develop proficiency in data modeling, DAX (Data Analysis Expressions), and creating interactive dashboards in Power BI. The final deliverables will include a series of visual reports that enable management to monitor territory-based sales performance and district management efficiency in real time, driving strategic decision-making.
 <br/>
 <br/>
-•	Power BI were used for data manipulation and visualization.
+•	Power BI, python(Matplotlib, Seaborn, Plotly, or ggplot2) were used for data manipulation and visualization.
 <br/>
   
 <b>- [PROJECT 2: HEART-CARE Deep Learning / Machine Learning Based Cardiovascular Disease Prediction Application](https://github.com/dhanushkapg/HeartCare)</b>
@@ -33,5 +33,25 @@ Application Development: A user-friendly CVD prediction application was develope
 Conclusion:
 This research successfully demonstrates the potential of machine learning in predicting CVDs based on human behavior. The developed application offers a valuable tool for individuals to assess their risk and take proactive steps to protect their health.
 
+<b>- [Google Play Store - Data Analysis Project](https://github.com/dhanushkapg/Google-Play-Store-Data-Analysis-)</b>
+<br/>
+<p align="justify">
+This project was undertaken as part of the requirements for the Business Intelligence and Data Analytics module during my Master’s degree program in July 2023.
+<br/>
+Google play store is one of the largest and most diversified mobile applications 
+repositories and that hosted more than millions of android base mobile applications 
+under various categories such as entertainment, education, health etc. Millions of 
+mobile users use google play store to download mobile applications perform their day 
+today tasks and google app store has good consumer feedback mechanism, rating and 
+price strategy etc. With the other competitive platforms like Apple play store it’s 
+more challenging for access outside parties and difficult to find balance dataset using 
+Apple play store data. 
+For the tasks of Data Exploration, Data Cleaning and Understanding I get my 
+approach by interpreting using python plotting and numerical libraries such as Pandas, 
+Matplotlib, Seaborn and NumPy which is highly effective in completing tasks 
+efficiently and accurately. I strongly believe that seamlessly visualizing and 
+interpreting data will help to avoid inconsistencies and enhance meaningful 
+insights.
+  
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/dhanushka-gunasinghe/****
