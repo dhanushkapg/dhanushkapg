@@ -132,7 +132,7 @@ Skills: Data Science · Machine Learning · Large Language Models (LLM) · Large
 
 
 
-<b>- [PROJECT 5:Sales Report - One Global Pvt(Ltd)](https://github.com/dhanushkapg/LLM-for-mental-Health)</b>
+<b>- [PROJECT 5:Sales Report - One Global Pvt(Ltd)](https://github.com/dhanushkapg/oneGlobal)</b>
 <br/>
 <p align="justify">
 This One Global Sales Report in Power BI provides a fully dynamic, time-based analysis of sales performance across various dimensions, helping businesses track revenue trends, top-performing products, and regional contributions.
