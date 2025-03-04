@@ -160,8 +160,7 @@ Dynamic Features:
 This dashboard enables businesses to monitor sales trends, assess product performance, and identify key contributors to revenue growth dynamically
 
 
-<b>- [PROJECT 7:Sales Report - One Global Pvt(Ltd)](https://github.com/dhanushkapg/awesomechocolate)</b>[PROJECT 7:Sales and Shipment Performance Analysis for Awesome Chocolates Private Limited]
-<br/>
+<b>- [PROJECT 8:Sales and Shipment Performance Analysis for Awesome Chocolates Private Limited]</b>https://github.com/dhanushkapg/awesomechocolate
 <p align="justify">
 This project focuses on analyzing and visualizing sales, shipment, and profitability data for Awesome Chocolates Private Limited using an interactive Power BI dashboard. The objective is to provide a 360-degree business performance overview, enabling data-driven decision-making by stakeholders.
 
