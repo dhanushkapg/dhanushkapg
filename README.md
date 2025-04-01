@@ -1,6 +1,40 @@
 <h1>Hi, I'm Dhanushka <br/>Data Science and Machine Learning Enthusiastic | Data Analytics | Software Developer | Application Integrator </h1>
 
 <h2><b>Academic and Professional Projects</b></h2>
+<b>- [ATLIQ - SALES 360](https://github.com/dhanushkapg/SalesAnalysis)</b>
+</br>
+<p align="justify"></p>Sales 360 is a data-driven project analyzing sales performance across multiple dimensions, offering 360-degree insights into trends, customer behaviors, and regional performance. It leverages Power BI and other BI tools for effective data visualization and interpretation.
+Project Objectives:
+Analyze sales trends and growth patterns over time.
+Segment customers based on behavior and demographics.
+Assess regional sales performance to identify high/low-performing areas.
+Provide actionable insights for data-driven decision-making.
+Forecast future sales trends using predictive analytics.
+
+Data Sources & Methodology:
+Data Collected From: Sales records, regional reports, and customer demographics.
+Methodology:
+Data Cleaning & Preprocessing – Handling inconsistencies for accurate analysis.
+Exploratory Data Analysis (EDA) – Identifying key sales patterns.
+Dashboard Creation in Power BI – Interactive visualization of key metrics.
+Predictive Modeling (if applicable) – Statistical techniques for sales forecasting.
+
+Key Features:
+Real-time Dashboards: Instant updates on sales performance.
+Geographical Sales Analysis: Performance by region and city.
+Customer Segmentation: Grouping customers by behavior and demographics.
+Product Performance: Identifying top-selling and underperforming products.
+Sales Forecasting: Predicting future trends based on historical data.
+KPI Tracking: Monitoring revenue, profit margins, and sales growth.
+
+Tools & Technologies:
+Power BI for visualization, SQL for data extraction, Excel for preprocessing, and Python/Pandas for advanced analysis.
+
+Business Impact:
+Enables data-driven decisions for marketing and sales strategies.
+Improves targeting, personalization, and resource allocation.
+Supports forecasting and strategic planning to reduce risks.
+
 
 <b>- [SALES PERFORMANCE AND INSIGHTS PROJECT](https://github.com/dhanushkapg/SalesAnalysis)</b>
 <br/>
