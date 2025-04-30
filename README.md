@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dhanushka <br/>Data Science and Machine Learning Enthusiastic | Data Analytics | Software Developer | Application Integrator </h1>
 
 <h2><b>Academic and Professional Projects</b></h2>
-<b>- [ATLIQ - SALES 360](https://github.com/dhanushkapg/ATLIQ-Sales-360/blob/main/README.md)</b>
+<b>- [ATLIQ - SALES 360](https://github.com/dhanushkapg/ATLIQ-Sales-360)</b>
 </br>
 <p align="justify"></p>Sales 360 is a data-driven project analyzing sales performance across multiple dimensions, offering 360-degree insights into trends, customer behaviors, and regional performance. It leverages Power BI and other BI tools for effective data visualization and interpretation.
 Project Objectives:
