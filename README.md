@@ -212,6 +212,35 @@ Total Sales & Profit % by salesperson. LBC% (Low Box Count Percentage) helps tra
 Helps track supply chain and sales performance over time. Identifies inefficiencies in logistics and sales.
 
 
+<b>- [PROJECT 9:Blinkit Sales Analysis Overview]</b>https://github.com/dhanushkapg/BlinkIT
+<p align="justify">
+This Power BI dashboard provides a comprehensive overview of sales performance, customer engagement, and product insights for Blinkit, an outlet-based retail business. The dashboard integrates data across key dimensions: sales, fat content types, store locations, product categories, ratings, and outlet sizes.
+
+Total Sales: $1.20M
+Average Sales per Item: $140.99
+Total Items Sold: 9K
+Total Categories: 16
+Average Customer Rating: 3.92 / 5
+
+1. Sales by Year (Top-Right Chart)
+Sales peaked in 2018 ($205K) and dropped sharply in subsequent years.
+Performance has remained below peak levels post-2019, possibly due to market saturation, operational changes, or external factors like the pandemic.
+2. Sales by Fat Content (Donut & Bar Charts)
+Regular Fat products dominate with 64.13% ($776.32K) of sales.
+Low Fat follows with 35.14%, while Fat-Free accounts for only 0.46%.
+Consumers significantly favor Regular and Low Fat items — indicating preference for taste or price over health-focused options.
+3. Sales by Item Type
+Top categories: Fruits & Vegetables, Snack Foods, Household, and Frozen Foods.
+Bottom categories: Seafood, Breakfast, and Starchy Foods — suggesting opportunities for targeted promotions.
+4. Sales by Outlet Location
+Tier 3 outlets lead with $472.13K, followed by Tier 2 ($393.15K) and Tier 1 ($336.40K).
+Indicates higher customer engagement or better stocking strategy in Tier 3 outlets.
+5. Outlet Size and Fat Content Sales
+Large-sized outlets contribute heavily to Regular Fat product sales.
+Suggests that bigger outlets offer a wider selection and attract bulk purchases.
+6. Outlet and Product Performance (Bottom Tables)
+Top-performing outlet: OUT010 ($78.13K in sales, 555 items).
+All top 5 outlets maintain a consistent rating of 3.92, indicating customer satisfaction.
 
       
 <h2> 🤳 Connect with me:</h2>
